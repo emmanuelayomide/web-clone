@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.main-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+   
+    background-color: #1C2125;
+   padding-left: 25px;
+   padding-right: 25px;
+}
+.first-container{
+    width: 33.3%;
+}
+.first-container img{
+    width: 90px;
+    height: 140px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
+.second-container{
+ 
+    padding: 12px;
+
+}
+.second-container li{
+    display: inline;
+    color: #fff;
+    padding: 5px;
+ 
+
+}
+.second-container a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 124%;
+    padding: 25px;
+  
+
+}
+.second-container a:hover{
+    text-decoration: underline;
+    
+}
+.third-container input{
+   
+   
+
+}
+.firstsub-container{
+ 
+    padding:12px;
+
+}
+.firstsub-container .big-text{
+    color:#fff;
+
+}
+    .firstsub-container .small-content{
+        color: #fff;
+ }
+        .content-images{
+           
+            justify-content: space-around;
+         
+            padding: 20px;
+
+       
+    }
+    .firstsub-container .read-more{
+        color: #fff;
+        border-radius: 5px;
+        padding: 12px;
+        border: 1px solid #fff;
+        background-color: #1C2125;
+        margin-top: 4px;
+
+        
+    }
+    .header-btn{
+     
+    }
+    .some-image{
+       
+    }
+    .some-image .womanimg{
+        width: 1000px;
+        height: auto;
+    }
+    .border-red{
+        margin-left:0;
+      margin-top: 150px;
+
+    }
+    .rborder{
+        width: 350px;
+        color:white;
+        background-color: red;
+        border-radius: 3px;
+        padding: 25px;
+    }
+    .rborder b{
+        text-align: center;
+    }
+
+    .rborder b p{
+        color: #fff;
+        
+    }
+    .cover{
+        width:200px;
+        padding: 30px;
+        background-color: #1C2125;
+        color: #fff;
+        margin-top: 15px;
+       
+    }
+    .overallcontainer{
+        width: 100%;
+        padding: 40px;
+        display: flex;
+        justify-content: space-around;
+        background-color: #2D3236;
+        background-image:url("dubai2.jpg");
+       
+    }
+    .overall1{
+        color: #fff;
+      
+
+    }
+    
+    .overall3{
+        color: #fff;
+       
+    }
+    .stopover{
+        margin-top: 8px;
+    }
+    .scocontent{
+        margin-top: 8px;
+    }
+    
+
+  .read-more2{
+        color: #fff;
+        border-radius: 5px;
+        padding: 12px;
+        border: 1px solid #fff;
+        background-color: #1C2125;
+        margin-top: 4px;
+
+        
+    }
+    .dbimg{
+        width: 300px;
+    }
